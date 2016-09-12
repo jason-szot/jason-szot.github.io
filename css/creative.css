@@ -42,6 +42,9 @@ p {
   line-height: 1.5;
   margin-bottom: 20px;
 }
+li{
+  text-align: left;
+}
 .bg-primary {
   background-color: #E76C12;
 }
