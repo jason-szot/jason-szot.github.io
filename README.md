@@ -1,2 +1,2 @@
 # jason-szot.github.io
-personal website / portfolio
+personal portfolio for website builds
